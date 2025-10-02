@@ -1,4 +1,4 @@
-# 🏛️ DDWV AI Project Manager Workshop
+# DDWV AI Project Manager Workshop
 
 This repository powers a hands-on workshop where we build **AI agents** and combine them with **research + visualization tools** to turn a meeting transcript into consulting-grade deliverables in under an hour.
 
@@ -7,7 +7,7 @@ This repository powers a hands-on workshop where we build **AI agents** and comb
 
 ---
 
-## 🚀 What You’ll Build
+## What You’ll Build
 
 1) **Agent (Copilot)** – *DDWV Meeting Notes Assistant*  
 2) **Agent (ChatGPT Custom GPT)** – *PMO Dashboard Analyst*  
@@ -17,7 +17,7 @@ This repository powers a hands-on workshop where we build **AI agents** and comb
 
 ---
 
-## 🧩 Core Flow
+## Core Flow
 
 **How To Create Agents →** Create Copilot Agent → build *DDWV Meeting Notes Assistant*  
 Then create a **GPT Agent** → *PMO Dashboard Analyst*  
@@ -26,7 +26,7 @@ Build PowerPoint → **Lucidchart AI**, **Gamma AI**
 
 ---
 
-## 🤖 Agent #1 — DDWV Meeting Notes Assistant (for Copilot)
+## Agent #1 — DDWV Meeting Notes Assistant (for Copilot)
 
 **Name**: `DDWV Meeting Notes Assistant`  
 **Description**: An agent that processes meeting notes/transcripts and offers structured outputs: **Email Meeting Recap, Cornell-style notes, RAID tables, Action Items tables**.  
@@ -66,7 +66,7 @@ Build PowerPoint → **Lucidchart AI**, **Gamma AI**
 
 ---
 
-## 🤖 Agent #2 — PMO Dashboard Analyst (Custom GPT)
+## Agent #2 — PMO Dashboard Analyst (Custom GPT)
 
 **Name**: `PMO Dashboard Analyst`  
 **Description**: A virtual PMO analyst that transforms raw project updates, RAID logs, and task trackers into **consulting-grade dashboards, summaries, and executive-ready outputs**.
@@ -87,7 +87,7 @@ Build PowerPoint → **Lucidchart AI**, **Gamma AI**
 
 ---
 
-## 🧪 Challenge Scenario (20 min)
+## Challenge Scenario (20 min)
 
 **Industry**: Banking (regional/community bank)  
 **Goal**: Go from **kickoff transcript** to deliverables for the next meeting.
@@ -104,7 +104,7 @@ Build PowerPoint → **Lucidchart AI**, **Gamma AI**
 
 ---
 
-## 🧰 Tools
+## Tools
 
 - **Consensus** – fast, cited AI research. See `/tools/consensus_quickstart.md`.  
 - **Lucidchart AI** – generate RAID/RACI/timeline diagrams. See `/tools/lucidchart_ai_quickstart.md`.  
@@ -112,7 +112,7 @@ Build PowerPoint → **Lucidchart AI**, **Gamma AI**
 
 ---
 
-## 🧭 Workshop Agenda (Presenter Outline)
+## Workshop Agenda (Presenter Outline)
 
 See `workshop_outline.md` for a slide-by-slide flow:
 - What agents are (Copilot vs GPT)
@@ -128,7 +128,7 @@ See `workshop_outline.md` for a slide-by-slide flow:
 
 ---
 
-## ✅ Quick Start
+## Quick Start
 
 1. Open **agents/** files; copy specs into Copilot and GPT Builder.
 2. Open **transcripts/banking_kickoff.txt**.
