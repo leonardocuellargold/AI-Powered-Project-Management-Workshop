@@ -1,0 +1,36 @@
+Digital Banking Transformation – Steering Committee (October 2025)
+
+Alex (PM): Today’s goal is to align on the Q4 digital banking initiative. Target: launch mobile-first with AI chat support by December 1. Clarify open banking API risks, customer trust, compliance.
+
+Priya (CTO): Mobile framework 70% complete. Identity/auth delayed due to vendor. Decision: move biometric login to phase 2.
+
+Zara (Compliance): Risk: waiting on regulator guidance for open banking data sharing. Dependency: regulator decision expected by Oct 20.
+
+Miguel (CX): Trust concern: 42% of customers hesitate to share financial data via third-party apps. Suggestion: run an education campaign on privacy & open banking.
+
+Alex (PM): Miguel owns comms campaign plan by Oct 15.
+
+Priya (CTO): API latency with core vendor Contoso: SLA 300ms, observed ~800ms; jeopardizes real-time transfers.
+
+Zara (Compliance): Assumption: Contoso fixes by end of Oct; if not, need fallback plan.
+
+Alex (PM): Add to RAID. Zara to draft fallback options by Oct 18.
+
+Miguel (CX): KPIs: Mobile adoption 60% by Q2 2026; Retention from 85% to 90%; Chatbot resolution rate 70%.
+
+Priya (CTO): Data migration risk: 2M records on mainframe. Action: migration rehearsal plan. Owner: Priya. Due: Oct 25.
+
+Alex (PM): Governance: weekly Steering syncs (Tuesdays). Teams as single comms hub.
+
+Miguel (CX): Competitive risk: two regional banks launched chatbots last quarter; need differentiation narrative.
+
+Alex (PM): Add strategic risk: competitive lag.
+
+Priya (CTO): Budget: spend 68% of forecast; cloud costs +12% due to extra test envs. Need Finance to validate runway.
+
+Zara (Compliance): Dependency: CISO security review before pilot. Deadline: Nov 10.
+
+Alex (PM): Summary:
+- Launch: Dec 1 (biometrics in phase 2)
+- Risks: regulatory delay, vendor API latency, data migration, customer trust, competitive lag
+- Actions: comms campaign (Miguel, 10/15), fallback API plan (Zara, 10/18), migration rehearsal (Priya, 10/25)

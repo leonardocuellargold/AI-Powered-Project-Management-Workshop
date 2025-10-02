@@ -1,0 +1,14 @@
+version: "3.9"
+services:
+  agents-pm-ms:
+    build: .
+    image: agents-pm-ms:latest
+    container_name: agents-pm-ms
+    env_file: .env
+    volumes:
+      - ./workspace:/workspace
+    command: >
+      python /app/run_supervisor.py
+      --transcript /workspace/samples/transcript_short.txt
+      --outdir /workspace/outputs
+      ${DRY_RUN:+--dry-run}

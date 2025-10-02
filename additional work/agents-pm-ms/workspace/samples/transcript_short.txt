@@ -1,0 +1,17 @@
+Project Kick-off Meeting – September 2025
+
+Alex: Welcome everyone. Objective today is to align on scope and confirm the phase-one backlog. We agreed last week that the target launch is November 15.
+
+Priya: We closed the data migration spike. Decision: move identity sync to sprint 3 so we can unblock the mobile team.
+
+Zara: Current risk is vendor latency; we need a mitigation plan by next Tuesday. Follow up: Zara owns the vendor handshake with Contoso by 2025-10-10.
+
+Miguel: Action – build draft comms plan for executive town hall. Due date 2025-10-05.
+
+Alex: Question – do we need a security review before pilot? Let's confirm with CISO. Another risk is integration testing capacity.
+
+Priya: Action item for Jamie: update the project RAID and share with PMO by 2025-10-04.
+
+Alex: Let's create a governance cadence. Todo – schedule weekly steering sync. Owner Alex.
+
+Team: Decision: adopt Teams channel as the single communications hub.
