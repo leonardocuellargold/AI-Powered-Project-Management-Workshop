@@ -13,8 +13,6 @@ This repository powers a hands-on workshop where we build **AI agents** and comb
 2) **Agent (ChatGPT Custom GPT)** – *PMO Dashboard Analyst*  
 3) **Research workflow** – Consensus for quick, citable evidence  
 4) **Visual workflow** – Lucidchart AI for diagrams, Gamma for instant slides  
-5) **(Optional) Automation** – Power Automate to push Action Items into Planner and post to Teams
-
 ---
 
 ## Core Flow
